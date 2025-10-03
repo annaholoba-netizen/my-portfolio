@@ -579,6 +579,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     margin-top: 30px;
     padding: 25px 30px;
     background: #e9ecef;
+    height:200px;
 }
 
 .experience .exp-column::before {
